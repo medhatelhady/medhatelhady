@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 
 I work with the following tools and technologies:
+<br>
 Python, Pandas, Numpy, Matplotlib, Seaborn, JSON, requests, BeautifulSoup, selenium, Tensorflow, keras, Sk-learn and pytorch(intermediate) and openCV
