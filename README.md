@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 💻I have built many Machine and deep learning models
 
 
-I work with the following tools and technologies:
+### I work with the following tools:
 <br>
 Python, Pandas, Numpy, Matplotlib, Seaborn, JSON, requests, BeautifulSoup, selenium, Tensorflow, keras, Sk-learn and pytorch(intermediate) and openCV
