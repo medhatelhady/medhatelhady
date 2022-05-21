@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### About me
 
-- I am a senior student at faculty of engineering who interested and AI and data scientist
-- I am working as a part-time data tutor at Udacity
-- I am competitve programmer who solved about 22% of all problems on hackerrank
-- I am experinced in python and SQL
-- I have a great experince in working with data (data wrangling - data visualization - web scraping - statistics)
-- I have built many Machine and deep learning models
+- 💻I am a senior student at faculty of engineering who interested and AI and data scientist
+- 💻I am working as a part-time data tutor at Udacity
+- 💻I am competitve programmer who solved about 22% of all problems on hackerrank
+- 💻I am experinced in python and SQL
+- 💻I have a great experince in working with data (data wrangling - data visualization - web scraping - statistics)
+- 💻I have built many Machine and deep learning models
 
 
 I work with the following tools and technologies:
