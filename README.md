@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ### I work with the following tools:
 <br>
-Python, Pandas, Numpy, Matplotlib, Seaborn, JSON, requests, BeautifulSoup, selenium, Tensorflow, keras, Sk-learn and pytorch(intermediate) and openCV
+Python, Pandas, Numpy, Matplotlib, Seaborn, JSON, requests, BeautifulSoup, selenium, Tensorflow, keras, Sk-learn, pytorch(intermediate) and openCV
