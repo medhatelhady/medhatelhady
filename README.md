@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medhat ELhady</h1>
-<h3 align="center">Data Tutor at Udaicty</h3>
+<h3 align="center">Data Tutor at Udaicty and passionate in AI and data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhatelhady&label=Profile%20views&color=0e75b6&style=flat" alt="medhatelhady" /> </p>
 
@@ -17,6 +17,7 @@
 <a href="https://kaggle.com/medhatelhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="medhatelhady" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/medhatelhady382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="medhatelhady382" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/medhat_elhayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="medhat_elhayd" height="30" width="40" /></a>
+<a href="/https://www.upwork.com/freelancers/~01bf574a57d45a07b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.upwork.com/freelancers/~01bf574a57d45a07b1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
