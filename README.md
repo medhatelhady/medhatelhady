@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medhatelhady" alt="medhatelhady" /></a> </p>
 
-- 🌱 I’m currently learning **Aws Machine Leaning Nanodegree**
+- 🌱 I’m currently  **Machine Leaning Engineer at TelecomEgypt**
 
 - 💬 Ask me about **Data science and Artificial intellegence**
 
