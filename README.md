@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Medhat ELhady</h1>
-<h3 align="center">Data Tutor at Udaicty and passionate in AI and data science</h3>
+<h3 align="center">Data scientist at Rackspace & Mentor at Udacity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhatelhady&label=Profile%20views&color=0e75b6&style=flat" alt="medhatelhady" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medhatelhady" alt="medhatelhady" /></a> </p>
 
-- 🌱 I’m currently  **Machine Leaning Engineer at TelecomEgypt**
+- 🌱 I’m currently  **Data Scientist at Rackspace**
 
-- 💬 Ask me about **Data science and Artificial intellegence**
+- 💬 Ask me about **Data science and Gen AI**
 
 - 📫 How to reach me **medhatelhady382@gmail.com**
 
